@@ -1,0 +1,4 @@
+this project (illp) is based on the openFrameworks project code (see openframeworks.cc). Remnants of the example it's based on (dirListExample, found under the addonsExamples folder) can still be seen in the code. The three files in the example: testApp.h, testApp.cpp, main.cpp, have all been modified, and testApp.* has been renamed to illp.*
+
+the application's purpose is to facilitate planning a linocut (linoleum block print) based on an image. It was partly inspired by the work of Sherrie Y. (see http://brushandbaren.blogspot.com/).
+
